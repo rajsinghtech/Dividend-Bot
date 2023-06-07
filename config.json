@@ -1,0 +1,62 @@
+{
+  "JEPQ": {
+    "cash_amount": 0.33,
+    "currency": "USD",
+    "declaration_date": "1999-04-25",
+    "dividend_type": "CD",
+    "ex_dividend_date": "1999-06-07",
+    "frequency": 4,
+    "pay_date": "1999-06-22",
+    "record_date": "1999-06-08",
+    "ticker": "AAT",
+    "currentDate": "1999-06-07"
+  },
+  "JEPI": {
+    "cash_amount": 0.36541,
+    "currency": "USD",
+    "declaration_date": "1999-05-31",
+    "dividend_type": "CD",
+    "ex_dividend_date": "1999-06-01",
+    "frequency": 12,
+    "pay_date": "1999-06-06",
+    "record_date": "1999-06-02",
+    "ticker": "JEPI",
+    "currentDate": "1999-06-07"
+  },
+  "TFC": {
+    "cash_amount": 0.36541,
+    "currency": "USD",
+    "declaration_date": "1999-05-31",
+    "dividend_type": "CD",
+    "ex_dividend_date": "1999-06-01",
+    "frequency": 12,
+    "pay_date": "1999-06-06",
+    "record_date": "1999-06-02",
+    "ticker": "JEPI",
+    "currentDate": "1999-06-07"
+  },
+  "AAPL": {
+    "cash_amount": 0.36541,
+    "currency": "USD",
+    "declaration_date": "1999-05-31",
+    "dividend_type": "CD",
+    "ex_dividend_date": "1999-06-01",
+    "frequency": 12,
+    "pay_date": "1999-06-06",
+    "record_date": "1999-06-02",
+    "ticker": "JEPI",
+    "currentDate": "1999-06-07"
+  },
+  "JPM": {
+    "cash_amount": 0.36541,
+    "currency": "USD",
+    "declaration_date": "1999-05-31",
+    "dividend_type": "CD",
+    "ex_dividend_date": "1999-06-01",
+    "frequency": 12,
+    "pay_date": "1999-06-06",
+    "record_date": "1999-06-02",
+    "ticker": "JEPI",
+    "currentDate": "1999-06-07"
+  }
+}

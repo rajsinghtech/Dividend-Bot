@@ -65,8 +65,8 @@ def tweet(message, watchTicker):
     if config[watchTicker]['currentDate'] == str(currentDate):
         print("Already tweeted today")
     else:
-        # api = tweepy.API(auth)
-        # api.update_status(message)
+        api = tweepy.API(auth)
+        api.update_status(message)
         print("Tweet posted")
 
 def main():
