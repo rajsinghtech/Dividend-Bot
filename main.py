@@ -116,6 +116,7 @@ def main():
             config[watchTicker]['currentDate'] = str(currentDate)
             storeConfig(config)
         print("Sleeping")
+        print(str(currentDate))
         time.sleep(60*60)
 if __name__ == '__main__':
     main()
