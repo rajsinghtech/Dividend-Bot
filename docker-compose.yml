@@ -11,4 +11,4 @@ services:
       - TWITTER_ACCESS_TOKEN_SECRET=${TWITTER_ACCESS_TOKEN_SECRET}
       - STOCK_API_KEY=${STOCK_API_KEY}
     volumes:
-      - /app/config.json:/mnt/tank/stone/git/Dividend-Bot/config.json
+      - /mnt/tank/stone/git/Dividend-Bot/config.json:/app/config.json
